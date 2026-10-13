@@ -16,3 +16,11 @@
 
 ## 주의
 - 저장소 이름·폴더 이름·GitHub 사용자명·공개 설정을 변경하거나 저장소를 삭제하면 QR코드가 작동하지 않습니다.
+
+## QR코드 이미지 (`qr/` 폴더)
+| 파일 | 담긴 주소 | 비고 |
+|---|---|---|
+| `qr/term1.png` | https://sj-parkk.github.io/eat-guide/term1/ | GitHub 주소 직접 연결 (권장) |
+| `qr/term2.png` | https://sj-parkk.github.io/eat-guide/term2/ | GitHub 주소 직접 연결 (권장) |
+| `qr/term1_naver.jpg` | https://m.site.naver.com/2ixLk | 네이버 QR — 네이버 서비스·계정에 추가 의존 |
+| `qr/term2_naver.jpg` | https://m.site.naver.com/2ixLJ | 네이버 QR — 네이버 서비스·계정에 추가 의존 |
