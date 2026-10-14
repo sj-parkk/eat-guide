@@ -20,6 +20,7 @@
 ## QR코드 이미지 (`qr/` 폴더)
 | 파일 | 담긴 주소 | 비고 |
 |---|---|---|
+| `qr/main.png` | https://sj-parkk.github.io/eat-guide/ | 상위(목록) 페이지 — 두 문서 선택 |
 | `qr/term1.png` | https://sj-parkk.github.io/eat-guide/term1/ | GitHub 주소 직접 연결 (권장) |
 | `qr/term2.png` | https://sj-parkk.github.io/eat-guide/term2/ | GitHub 주소 직접 연결 (권장) |
 | `qr/term1_naver.jpg` | https://m.site.naver.com/2ixLk | 네이버 QR — 네이버 서비스·계정에 추가 의존 |
