@@ -35,6 +35,7 @@
 | term1 | https://sj-parkk.github.io/eat-guide/term1/ | 회원관리 운영지침(개정 전문) | `term1/index.html` | `qr/term1.png` |
 | term2 | https://sj-parkk.github.io/eat-guide/term2/ | 이용약관(개정 전문) | `term2/index.html` | `qr/term2.png` |
 | term3 | https://sj-parkk.github.io/eat-guide/term3/ | 자격제한 및 점검·심사 | `term3/index.html` | `qr/term3.png` |
+| inspection | https://sj-parkk.github.io/eat-guide/inspection/ | 정기·불시 점검 앱 | `inspection/index.html` | (미생성) |
 
 ---
 
@@ -92,7 +93,7 @@
 - 저장소 **이름 변경** 또는 **삭제**
 - 저장소를 **비공개(Private)로 전환** — 무료 계정은 공개 저장소에서만 Pages가 작동함
 - GitHub **사용자명 변경**
-- `term1`, `term2`, `term3` **폴더 이름 변경·삭제**
+- `term1`, `term2`, `term3`, `inspection` **폴더 이름 변경·삭제**
 - Settings → Pages 설정 해제
 - 연결된 드라이브 PDF **삭제**, 또는 공유 설정을 '제한됨'으로 변경
 
