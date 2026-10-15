@@ -35,7 +35,7 @@
 | term1 | https://sj-parkk.github.io/eat-guide/term1/ | 회원관리 운영지침(개정 전문) | `term1/index.html` | `qr/term1.png` |
 | term2 | https://sj-parkk.github.io/eat-guide/term2/ | 이용약관(개정 전문) | `term2/index.html` | `qr/term2.png` |
 | term3 | https://sj-parkk.github.io/eat-guide/term3/ | 자격제한 및 점검·심사 | `term3/index.html` | `qr/term3.png` |
-| inspection | https://sj-parkk.github.io/eat-guide/inspection/ | 정기·불시 점검 앱 | `inspection/index.html` | (미생성) |
+| inspection | https://sj-parkk.github.io/eat-guide/inspection/ | 정기·불시 점검 앱 | `inspection/index.html` | `qr/inspection.png` |
 
 ---
 
