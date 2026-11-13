@@ -32,10 +32,18 @@
 | 구분 | 고정 주소 (QR에 들어간 주소) | 연결 대상 PDF | 수정할 파일 | QR 이미지 |
 |---|---|---|---|---|
 | 목록 | https://sj-parkk.github.io/eat-guide/ | (전체 문서 선택 화면) | `index.html` | `qr/main.png` |
-| term1 | https://sj-parkk.github.io/eat-guide/term1/ | 회원관리 운영지침(개정 전문) | `term1/index.html` | `qr/term1.png` |
-| term2 | https://sj-parkk.github.io/eat-guide/term2/ | 이용약관(개정 전문) | `term2/index.html` | `qr/term2.png` |
-| term3 | https://sj-parkk.github.io/eat-guide/term3/ | 자격제한 및 점검·심사 | `term3/index.html` | `qr/term3.png` |
-| inspection | https://sj-parkk.github.io/eat-guide/inspection/ | 정기·불시 점검 앱 | `inspection/index.html` | `qr/inspection.png` |
+| term1 | https://sj-parkk.github.io/eat-guide/term1/ | 회원관리 운영지침(개정 전문) ※ 목록 화면에서는 숨김(직접 주소·QR 접속은 가능) | `term1/index.html` | `qr/term1.png` |
+| term2 | https://sj-parkk.github.io/eat-guide/term2/ | 이용약관(개정 전문) ※ 목록 숨김 | `term2/index.html` | `qr/term2.png` |
+| term3 | https://sj-parkk.github.io/eat-guide/term3/ | 자격제한 및 점검·심사 ※ 목록 숨김 | `term3/index.html` | `qr/term3.png` |
+| inspection | https://sj-parkk.github.io/eat-guide/inspection/ | 정기·불시 점검 앱 ※ 목록 숨김 | `inspection/index.html` | `qr/inspection.png` |
+| doc1 | https://sj-parkk.github.io/eat-guide/doc1/ | 1. 이용약관(개정 전문) | `doc1/index.html` | (미생성) |
+| doc2 | https://sj-parkk.github.io/eat-guide/doc2/ | 2. 이용약관_공급사 자격제한 | `doc2/index.html` | (미생성) |
+| doc3 | https://sj-parkk.github.io/eat-guide/doc3/ | 3. 회원관리,운영지침_공급사 현장심사표 | `doc3/index.html` | (미생성) |
+| doc4 | https://sj-parkk.github.io/eat-guide/doc4/ | 4. 회원관리,운영지침_정기점검표 | `doc4/index.html` | (미생성) |
+| doc5 | https://sj-parkk.github.io/eat-guide/doc5/ | 5. 심사퀵가이드_서류심사 | `doc5/index.html` | (미생성) |
+| doc6 | https://sj-parkk.github.io/eat-guide/doc6/ | 6. 심사퀵가이드_현장심사 | `doc6/index.html` | (미생성) |
+
+> doc1~doc6: 구글 드라이브 `aT/QR_다이어리/20261113` 폴더 파일 (2026.11.13. 추가)
 
 ---
 
@@ -93,7 +101,7 @@
 - 저장소 **이름 변경** 또는 **삭제**
 - 저장소를 **비공개(Private)로 전환** — 무료 계정은 공개 저장소에서만 Pages가 작동함
 - GitHub **사용자명 변경**
-- `term1`, `term2`, `term3`, `inspection` **폴더 이름 변경·삭제**
+- `term1`, `term2`, `term3`, `inspection`, `doc1`~`doc6` **폴더 이름 변경·삭제**
 - Settings → Pages 설정 해제
 - 연결된 드라이브 PDF **삭제**, 또는 공유 설정을 '제한됨'으로 변경
 
