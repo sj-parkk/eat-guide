@@ -36,12 +36,12 @@
 | term2 | https://sj-parkk.github.io/eat-guide/term2/ | 이용약관(개정 전문) ※ 목록 숨김 | `term2/index.html` | `qr/term2.png` |
 | term3 | https://sj-parkk.github.io/eat-guide/term3/ | 자격제한 및 점검·심사 ※ 목록 숨김 | `term3/index.html` | `qr/term3.png` |
 | inspection | https://sj-parkk.github.io/eat-guide/inspection/ | 정기·불시 점검 앱 ※ 목록 숨김 | `inspection/index.html` | `qr/inspection.png` |
-| doc1 | https://sj-parkk.github.io/eat-guide/doc1/ | 1. 이용약관(개정 전문) | `doc1/index.html` | (미생성) |
-| doc2 | https://sj-parkk.github.io/eat-guide/doc2/ | 2. 이용약관_공급사 자격제한 | `doc2/index.html` | (미생성) |
-| doc3 | https://sj-parkk.github.io/eat-guide/doc3/ | 3. 회원관리,운영지침_공급사 현장심사표 | `doc3/index.html` | (미생성) |
-| doc4 | https://sj-parkk.github.io/eat-guide/doc4/ | 4. 회원관리,운영지침_정기점검표 | `doc4/index.html` | (미생성) |
-| doc5 | https://sj-parkk.github.io/eat-guide/doc5/ | 5. 심사퀵가이드_서류심사 | `doc5/index.html` | (미생성) |
-| doc6 | https://sj-parkk.github.io/eat-guide/doc6/ | 6. 심사퀵가이드_현장심사 | `doc6/index.html` | (미생성) |
+| doc1 | https://sj-parkk.github.io/eat-guide/doc1/ | 1. 이용약관 | `doc1/index.html` | (미생성) |
+| doc2 | https://sj-parkk.github.io/eat-guide/doc2/ | 2. 공급사 자격제한 기준 | `doc2/index.html` | (미생성) |
+| doc3 | https://sj-parkk.github.io/eat-guide/doc3/ | 3. 공급사 현장심사표 | `doc3/index.html` | (미생성) |
+| doc4 | https://sj-parkk.github.io/eat-guide/doc4/ | 4. 정기점검표 | `doc4/index.html` | (미생성) |
+| doc5 | https://sj-parkk.github.io/eat-guide/doc5/ | 5. 심사퀵가이드(서류심사) | `doc5/index.html` | (미생성) |
+| doc6 | https://sj-parkk.github.io/eat-guide/doc6/ | 6. 심사퀵가이드(현장심사) | `doc6/index.html` | (미생성) |
 
 > doc1~doc6: 구글 드라이브 `aT/QR_다이어리/20261113` 폴더 파일 (2026.11.13. 추가)
 
